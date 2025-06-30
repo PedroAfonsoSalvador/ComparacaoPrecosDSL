@@ -6,7 +6,7 @@
 ---
 
 ## Motivação
-Comparar preços de produtos com diferentes embalagens e unidades é uma tarefa tediosa e propensa a erros. Esta linguagem de domínio específico (DSL) foi criada para automatizar esse processo, permitindo que consumidores e empresas tomem decisões de compra mais inteligentes calculando automaticamente o melhor custo-benefício.
+Comparar preços de produtos com diferentes embalagens e unidades é uma tarefa tediosa e propensa a erros. Esta linguagem de domínio específico (DSL) foi criada para automatizar esse processo, permitindo que consumidores tomem decisões de compra mais inteligentes calculando automaticamente o melhor custo-benefício.
 A ferramenta é especialmente útil para:
 - Comparar produtos com unidades diferentes (ml, l, g, kg).
 - Identificar promoções e descontos reais.

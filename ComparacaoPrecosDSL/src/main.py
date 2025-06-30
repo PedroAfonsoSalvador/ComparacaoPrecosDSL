@@ -34,6 +34,5 @@ def main():
         print(f"Erro durante a interpretação: {str(e)}")
 
 if __name__ == "__main__":
-    # Adiciona o diretório src ao PATH
     sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     main()
